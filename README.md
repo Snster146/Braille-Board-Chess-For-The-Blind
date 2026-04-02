@@ -1,5 +1,1 @@
-<p>hello</p>
-<ul>
-  <li>hi</li>
-  <li>hi</li>
-</ul>
+<h1 style="color:blue">Braille board chess for the blind</h1>
