@@ -9,15 +9,15 @@ this project aims to make chess more intiuitve for the blind and visually impair
     <td>Presentation video name</td>
     <td>link to video</td>
   <tr>
-    <td><strong>outube presentaion video</strong></td>
+    <td><strong>Youtube presentaion video</strong></td>
     <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a></td>
   </tr>
   <tr>
-    <td><strong>link to youtube demonstration of coordinate reading</strong></td>
+    <td><strong>Youtube demonstration of coordinate reading</strong></td>
     <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a></td>
   </tr>
   <tr>
-    <td><strong>link to youtube demonstration of piece moving</strong></td>
+    <td><strong>Youtube demonstration of piece moving</strong></td>
     <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a></td>
   </tr>
 </table>
