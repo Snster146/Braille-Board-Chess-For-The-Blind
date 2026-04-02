@@ -11,9 +11,9 @@ this project aims to make chess more intiuitve for the blind and visually impair
     <td><strong>link to youtube demonstration of piece moving</strong></td>
   </tr>
   <tr>
-    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9"></a></td>
-    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9"></a>a</td>
-    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9"></a></td>
+    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a></td>
+    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a>a</td>
+    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a></td>
   </tr>
 </table>
 
