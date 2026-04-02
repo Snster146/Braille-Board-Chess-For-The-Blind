@@ -3,16 +3,21 @@
 this project aims to make chess more intiuitve for the blind and visually impaired through a coordinate reading system and the use of braille</p>
 <br>
 
-<h2>Project demonstration</h2>
+<h2>Project video demonstrations</h2>
 <table>
   <tr>
-    <td><strong>link to youtube presentaion video</strong></td>
-    <td><strong>link to youtube demonstration of coordinate reading</strong></td>
-    <td><strong>link to youtube demonstration of piece moving</strong></td>
+    <td>Presentation video name</td>
+    <td>link to video</td>
+  <tr>
+    <td><strong>outube presentaion video</strong></td>
+    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a></td>
   </tr>
   <tr>
+    <td><strong>link to youtube demonstration of coordinate reading</strong></td>
     <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a></td>
-    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a></td>
+  </tr>
+  <tr>
+    <td><strong>link to youtube demonstration of piece moving</strong></td>
     <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">link</a></td>
   </tr>
 </table>
