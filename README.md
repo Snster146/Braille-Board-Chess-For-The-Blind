@@ -99,9 +99,9 @@ this project aims to make chess more intiuitve for the blind and visually impair
     <td>3d printing</td>
   </tr>
   <tr>
-    <p>Download the code from x </p>
-    <p>Follow the ciruit diagram from x</p>
-    <p>Download the stl files from x **note issue may arrise with weight of pieces being too light to press switches without force, I recommend adding pauses to the pieces printing in your slicer software and placing small nuts to add weight to the pieces.</p>
+    <td><p>Download the code from x </p></td>
+    <td><p>Follow the ciruit diagram from x</p></td>
+    <td><p>Download the stl files from x **note issue may arrise with weight of pieces being too light to press switches without force, I recommend adding pauses to the pieces printing in your slicer software and placing small nuts to add weight to the pieces.</p></td>
   </tr>
 </table>
 
