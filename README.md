@@ -17,6 +17,18 @@ this project aims to make chess more intiuitve for the blind and visually impair
   </tr>
 </table>
 
+<h2>Mentioned articles</h2>
+<table>
+  <tr>
+    <td>Article</td>
+    <td>Article link</td>
+  </tr>
+  <tr>
+    <td>Article</td>
+    <td>Article link</td>
+  </tr>
+</table>
+
 <h2>How to set up project</h2>
 <h3>Component requirements</h3>
 <table>
