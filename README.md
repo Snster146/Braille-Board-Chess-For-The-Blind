@@ -4,7 +4,7 @@ this project aims to make chess more intiuitve for the blind and visually impair
 <br>
 
 <h2>Project demonstration</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fur1zlCDkqY?si=SQR32fA7uaQ7aZSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9" alt = "youtube presentation video">
 
 <h2>How to set up project</h2>
 <h3>Component requirements</h3>
