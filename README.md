@@ -94,13 +94,18 @@ this project aims to make chess more intiuitve for the blind and visually impair
 <h3>Setup</h3>
 <table>
   <tr>
+    <td>Setup step</td>
+    <td>Setup instructions</td>
+  <tr>
     <td>Arudino setup</td>
-    <td>Circuit board Setup</td>
-    <td>3d printing</td>
+    <td><p>Download the code from x </p></td>
   </tr>
   <tr>
-    <td><p>Download the code from x </p></td>
+    <td>Circuit board Setup</td>
     <td><p>Follow the ciruit diagram from x</p></td>
+  </tr>
+  <tr>
+    <td>3d printing</td>
     <td><p>Download the stl files from x **note issue may arrise with weight of pieces being too light to press switches without force, I recommend adding pauses to the pieces printing in your slicer software and placing small nuts to add weight to the pieces.</p></td>
   </tr>
 </table>
