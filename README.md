@@ -46,8 +46,10 @@ this project aims to make chess more intiuitve for the blind and visually impair
       <a href="https://herald.wales/mid-wales/ceredigion-mid-wales/young-welsh-talent-showcased-at-wjecs-innovation-awards/">link</a>
     </td>
   </tr>
-  <tr>A look at the 2024 Innovation Awards Ceremony by WJEC</tr>
-  <tr><a href="https://www.wjec.co.uk/home/innovation-awards/2024-awards/">link</a></tr>
+  <tr>
+    <td>A look at the 2024 Innovation Awards Ceremony by WJEC</td>
+    <td><a href="https://www.wjec.co.uk/home/innovation-awards/2024-awards/">link</a></td>
+  </tr>
   
 </table>
 <h2>How to set up project</h2>
