@@ -6,6 +6,7 @@ this project aims to make chess more intiuitve for the blind and visually impair
 <h2>Project demonstration</h2>
 
 <a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9" alt = "youtube presentation video">
+</a>
 
 <h2>How to set up project</h2>
 <h3>Component requirements</h3>
