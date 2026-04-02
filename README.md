@@ -3,14 +3,44 @@
 this project aims to make chess more intiuitve for the blind and visually impaired through a coordinate reading system and the use of braille</p>
 <br>
 <h2>How to set up project</h2>
-<h3>Project Requirements</h3>
+<h3>Component requirements</h3>
 <table>
   <tr>
-    <th>hi</th>
-    <th>hi</th>
+    <th>Requirement</th>
+    <th>Where to purchase</th>
   </tr>
-  <td>hi</td>
-  <td>hi</td>
+  <tr>
+    <td>Arduino mega 2560 R3</td>
+    <td>amazon.com</td>
+  </tr>
+  <tr>
+    <td>200mmx200mm stripboard</td>
+    <td>amazon.com</td>
+  </tr>
+  <tr>
+    <td>64 switches</td>
+    <td>amazon.com</td>
+  </tr>
+  <tr>
+    <td>soldering iron , solder and flux</td>
+    <td>amazon.com</td>
+  </tr>
+  <tr>
+    <td>4Ohm 3W Speaker</td>
+    <td>amazon.com</td>
+  </tr>
+  <tr>
+    <td>PCB Board Power Supply Module 3.3V/5V 700MA Adapter</td>
+    <td>amazon.com</td>
+  </tr>
+  <tr>
+    <td>128 200MA general purpose Diodes</td>
+    <td>amazon.com</td>
+  </tr>
+  <tr>
+    <td>Electical Wire</td>
+    <td>amazon.com</td>
+  </tr>
 </table>
 
 
