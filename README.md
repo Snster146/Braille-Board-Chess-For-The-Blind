@@ -56,6 +56,14 @@ this project aims to make chess more intiuitve for the blind and visually impair
     <td>Electical Wire</td>
     <td>amazon.com</td>
   </tr>
+  <tr>
+    <td>*Optional*3d printer filament</td>
+    <td>amazon.com</td>
+  </tr>
+  <tr>
+    <td>*Optional*3d printer</td>
+    <td>amazon.com</td>
+  </tr>
 </table>
 
 
