@@ -15,6 +15,10 @@ this project aims to make chess more intiuitve for the blind and visually impair
     <li>128 200MA general purpose Diodes</li>
     <li>Electical Wire </li>
   </ul>
+  <ul>
+    <li>xoxo</li>
+    <li>xoxo</li>
+  </ul>
 </ul>
 
 <h3>Chess board and piece manufacturing </h3>
