@@ -4,10 +4,21 @@ this project aims to make chess more intiuitve for the blind and visually impair
 <br>
 
 <h2>Project demonstration</h2>
+<table>
+  <tr>
+    <td><strong>link to youtube presentaion video</strong></td>
+    <td><strong>link to youtube demonstration of coordinate reading</strong></td>
+    <td><strong>link to youtube demonstration of piece moving</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9"></td>
+    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9"></td>
+    <td><a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9"></td>
+  </tr>
+</table>
 
-<a href="https://youtu.be/fur1zlCDkqY?si=SuDgG8txIFnUWPN9">
-  link to youtube presentaion video
-</a>
+
+
 
 <h2>How to set up project</h2>
 <h3>Component requirements</h3>
