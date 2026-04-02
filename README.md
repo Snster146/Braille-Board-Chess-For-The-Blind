@@ -24,11 +24,14 @@ this project aims to make chess more intiuitve for the blind and visually impair
     <td>Article link</td>
   </tr>
   <tr>
-    <td>Article</td>
-    <td>Article link</td>
+    <td>Young Welsh inventors recognised at awards by South Wales echo</td>
+    <td><a href="https://www.pressreader.com/uk/south-wales-echo/20241219/281698325349443">link</a></td>
+  </tr>
+  <tr>
+    <td>Young Welsh talent showcased at WJEC’s Innovation Awards by Cardiff news desk</td>
+    <td><a href="https://www.pressreader.com/uk/south-wales-echo/20241219/281698325349443"</a></td>
   </tr>
 </table>
-
 <h2>How to set up project</h2>
 <h3>Component requirements</h3>
 <table>
