@@ -5,8 +5,10 @@ this project aims to make chess more intiuitve for the blind and visually impair
 <h2>How to set up project</h2>
 <h3>Project Requirements</h3>
 <ul>
-  <ul>
-    <li>Arduino mega 2560 R3</li>
+  
+  <li><strong>Arduino mega 2560 R3</strong>
+  <ul>amazon.com///</ul>
+  </li>
     <li>200mmx200mm stripboard</li>
     <li>64 switches</li>
     <li>soldering iron , solder and flux </li>
@@ -14,11 +16,8 @@ this project aims to make chess more intiuitve for the blind and visually impair
     <li>PCB Board Power Supply Module 3.3V/5V 700MA Adapter</li>
     <li>128 200MA general purpose Diodes</li>
     <li>Electical Wire </li>
-  </ul>
-  <ul>
-    <li>xoxo</li>
-    <li>xoxo</li>
-  </ul>
+  
+  
 </ul>
 
 <h3>Chess board and piece manufacturing </h3>
