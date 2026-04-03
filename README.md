@@ -127,6 +127,7 @@ this project aims to make chess more intiuitve for the blind and visually impair
 
 <h3>Additional Content</h3>
 <p>Additional content can be found through project portfolio which contains the entire project portfolio containing 382 slides of documentation</p>
+<br>
 
 <h3>How to contribute</h3>
 <h2>Create an imporved circuit diagram</h2>
