@@ -127,9 +127,7 @@ this project aims to make chess more intiuitve for the blind and visually impair
 
 <h3>Additional Content</h3>
 <p>Additional content can be found through project portfolio which contains the entire project portfolio containing 382 slides of documentation</p>
-<br>
 
-<br>
 <h4>How to contribute</h4>
 <h2>Create an imporved circuit diagram</h2>
 <p> to contribute you can create an improved circuit diagram, improving on my inital one. For example adding ability for power via usb-c. I aim for this project to be manufactured through a custom pcb.</p>
