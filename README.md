@@ -128,5 +128,12 @@ this project aims to make chess more intiuitve for the blind and visually impair
 <h3>Additional Content</h3>
 <p>Additional content can be found through project portfolio which contains the entire project portfolio containing 382 slides of documentation</p>
 
-
-
+<h3>How to contribute</h3>
+<h2>Create an imporved circuit diagram</h2>
+<p> to contribute you can create an improved circuit diagram, improving on my inital one. For example adding ability for power via usb-c. I aim for this project to be manufactured through a custom pcb.</p>
+<br>
+<h2>improve design of pieces and board</h2>
+<p>You can improve the existing piece design and board design and upload your files to the 3dModels directory</p>
+<br>
+<h2>Improve code</h2>
+<p>You can improve the code for example through piece identification for example reading pawn moved to D3 instead of Piece moved to D3</p>
